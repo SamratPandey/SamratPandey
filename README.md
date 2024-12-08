@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @SamratPandey
-- 👀 I’m interested in Projects...
-- 🌱 I’m currently learning coding...
-- 💞️ I’m looking to collaborate with opportunity...
-- 📫 How to reach me just sms me ..
-...
+# Hi, I'm Samrat Pandey
+
+- Learning coding  
+- Interested in projects  
+- Open to collaboration  
+- Contact me via SMS  
+
 
 <!---
 SamratPandey/SamratPandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
