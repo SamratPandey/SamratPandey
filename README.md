@@ -1,27 +1,98 @@
-# Hi, I'm Samrat Pandey 👋
+<h1 align="center">Hi 👋, I'm Samrat Pandey</h1>
+<h3 align="center">Full-stack developer building web apps & AI-powered tools</h3>
 
-Full-stack developer who likes shipping — web apps, and lately a lot of
-AI-flavored side projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamratPandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## 🛠️ Tech I work with
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+### 🧑‍💻 About me
 
-## 🚀 What I'm up to
+- 🔭 I build **full-stack web apps** with React / Next.js / Node — and lately **AI-powered tools** (LLM workflows & automation).
+- 🌱 Currently going deeper on **Generative AI** and **LLM app development**.
+- 🛠️ Comfortable across the stack — UI, APIs, databases, and deployment.
+- 👯 Open to **collaboration** on interesting web / AI projects.
+- 💬 Ask me about **JavaScript, React, Node.js, and building with LLMs**.
+- ⚡ Fun fact: I learn best by shipping real projects.
 
-- 🔭 Building web + AI projects
-- 🌱 Going deeper on LLM / AI apps
-- 👯 Open to collaboration
-- 💬 Ask me about JavaScript, React, and full-stack work
+---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-![Samrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamratPandey&show_icons=true&theme=tokyonight)
+**Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamratPandey&layout=compact&theme=tokyonight)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Database & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI**
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does |
+| --- | --- |
+| [**NodeLess&#95;AI**](https://github.com/SamratPandey/NodeLess_AI) | Describe an automation in plain English — Gemini plans & executes the workflow automatically, no nodes or manual setup. |
+| [**webPulse**](https://github.com/SamratPandey/webPulse) | A website uptime & performance monitoring application. |
+| [**RealTalk**](https://github.com/SamratPandey/RealTalk) | A realtime chat app — React UI with Firebase auth & database. |
+| [**fbdownload**](https://github.com/SamratPandey/fbdownload) | A Facebook video downloader. |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamratPandey&show_icons=true&count_private=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratPandey&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamratPandey&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamratPandey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<!-- Replace the placeholders below with your real profile links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+<sub>⭐️ From <a href="https://github.com/SamratPandey">SamratPandey</a></sub>
