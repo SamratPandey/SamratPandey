@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samrat Pandey</h1>
-<h3 align="center">Full-stack developer building web apps & AI-powered tools</h3>
+<h3 align="center">Full-stack developer building web apps & AI-powered products</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamratPandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,12 +9,12 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 I build **full-stack web apps** with React / Next.js / Node — and lately **AI-powered tools** (LLM workflows & automation).
-- 🌱 Currently going deeper on **Generative AI** and **LLM app development**.
-- 🛠️ Comfortable across the stack — UI, APIs, databases, and deployment.
-- 👯 Open to **collaboration** on interesting web / AI projects.
-- 💬 Ask me about **JavaScript, React, Node.js, and building with LLMs**.
-- ⚡ Fun fact: I learn best by shipping real projects.
+- 🔭 I design & ship **full-stack products end-to-end** — from React/Next.js UIs to APIs, databases, and the cloud infra they run on.
+- 🤖 Lately focused on **AI-powered products** (LLM-driven scoring, insights & automation).
+- ☁️ Comfortable owning **deployment & ops** — Docker, AWS, Cloudflare, Nginx, VPS.
+- 👯 Open to **collaboration** on ambitious web / AI projects.
+- 💬 Ask me about **JavaScript/TypeScript, React, Node, and shipping with LLMs**.
+- ⚡ Fun fact: I learn best by building real products people actually use.
 
 ---
 
@@ -40,12 +40,20 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Database & DevOps**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **AI**
 
@@ -64,10 +72,8 @@
 
 | Project | What it does |
 | --- | --- |
-| [**NodeLess&#95;AI**](https://github.com/SamratPandey/NodeLess_AI) | Describe an automation in plain English — Gemini plans & executes the workflow automatically, no nodes or manual setup. |
-| [**webPulse**](https://github.com/SamratPandey/webPulse) | A website uptime & performance monitoring application. |
-| [**RealTalk**](https://github.com/SamratPandey/RealTalk) | A realtime chat app — React UI with Firebase auth & database. |
-| [**fbdownload**](https://github.com/SamratPandey/fbdownload) | A Facebook video downloader. |
+| [**Artheq**](https://artheq.io) &nbsp;·&nbsp; `artheq.io` | AI portfolio-health analytics for Indian stock investors — upload your portfolio and get a **0–999 Portfolio Health Score** with plain-English, AI-powered risk insights in under 60 seconds. |
+| [**CrypLens**](https://cryplens.com) &nbsp;·&nbsp; `cryplens.com` | SEO-first crypto analysis & content platform — transparent **0–100 coin Health Scores**, market-regime reads, and sentiment-tagged news. |
 
 ---
 
