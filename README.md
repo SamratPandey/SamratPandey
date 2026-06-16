@@ -135,10 +135,6 @@ Always happy to talk shop or team up on something interesting.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamratPandey&theme=tokyonight" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamratPandey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-</p>
-
 ---
 
 ## Connect
