@@ -16,26 +16,11 @@
 
 ## About
 
-I'm a software engineer who builds across the stack — Android apps, microservices, and backend systems, along with the cloud infrastructure that runs them. I'm not tied to one type of product; I like working close to the systems layer and owning a project from design through deployment and ops.
+I'm a software engineer. Most of what I build is Android apps and backend microservices, and I'd rather pick whatever fits the problem than lock myself into one kind of product or stack.
 
-<table>
-  <tr>
-    <td><b>Building</b></td>
-    <td>Android apps, microservices, and backend systems — no single type of product</td>
-  </tr>
-  <tr>
-    <td><b>Across the stack</b></td>
-    <td>UI, APIs, databases, and Docker / AWS / Cloudflare / Nginx deployment</td>
-  </tr>
-  <tr>
-    <td><b>Open to</b></td>
-    <td>Collaboration on ambitious software projects</td>
-  </tr>
-  <tr>
-    <td><b>Ask me about</b></td>
-    <td>Go, gRPC, microservices, JavaScript / TypeScript, and shipping with LLMs</td>
-  </tr>
-</table>
+I like taking things end to end — writing the code, setting up the infrastructure it runs on, and dealing with whatever comes up once it's live. A fair bit of my recent work is around building with LLMs.
+
+Always happy to talk shop or team up on something interesting.
 
 ---
 
