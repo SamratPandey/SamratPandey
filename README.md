@@ -16,9 +16,9 @@
 
 ## About
 
-I'm a software engineer. Most of what I build is Android apps and backend microservices, and I'd rather pick whatever fits the problem than lock myself into one kind of product or stack.
+I'm a software engineer. I'd rather pick whatever fits the problem than lock myself into one kind of product or stack, so I tend to work across a pretty wide range of things.
 
-I like taking things end to end — writing the code, setting up the infrastructure it runs on, and dealing with whatever comes up once it's live. A fair bit of my recent work is around building with LLMs.
+I like taking projects end to end — writing the code, setting up the infrastructure they run on, and dealing with whatever comes up once they're live. A fair bit of my recent work is around building with LLMs.
 
 Always happy to talk shop or team up on something interesting.
 
