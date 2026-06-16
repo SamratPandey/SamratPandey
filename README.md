@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samrat Pandey</h1>
+<h1 align="center">Hi, I'm Samrat Pandey</h1>
 <h3 align="center">Full-stack developer building web apps & AI-powered products</h3>
 
 <p align="center">
@@ -7,18 +7,18 @@
 
 ---
 
-### 🧑‍💻 About me
+### About me
 
-- 🔭 I design & ship **full-stack products end-to-end** — from React/Next.js UIs to APIs, databases, and the cloud infra they run on.
-- 🤖 Lately focused on **AI-powered products** (LLM-driven scoring, insights & automation).
-- ☁️ Comfortable owning **deployment & ops** — Docker, AWS, Cloudflare, Nginx, VPS.
-- 👯 Open to **collaboration** on ambitious web / AI projects.
-- 💬 Ask me about **JavaScript/TypeScript, React, Node, and shipping with LLMs**.
-- ⚡ Fun fact: I learn best by building real products people actually use.
+- I design & ship **full-stack products end-to-end** — from React/Next.js UIs to APIs, databases, and the cloud infra they run on.
+- Lately focused on **AI-powered products** (LLM-driven scoring, insights & automation).
+- Comfortable owning **deployment & ops** — Docker, AWS, Cloudflare, Nginx, VPS.
+- Open to **collaboration** on ambitious web / AI projects.
+- Ask me about **JavaScript/TypeScript, React, Node, and shipping with LLMs**.
+- Fun fact: I learn best by building real products people actually use.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -76,7 +76,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | What it does |
 | --- | --- |
@@ -85,7 +85,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamratPandey&show_icons=true&count_private=true&theme=tokyonight" alt="stats" />
@@ -102,11 +102,10 @@
 
 ---
 
-### 🤝 Connect with me
+### Connect with me
 
-<!-- Replace the placeholders below with your real profile links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratpandey1/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/samrat_pande)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samratpandeyofficial02@gmail.com)
 
-<sub>⭐️ From <a href="https://github.com/SamratPandey">SamratPandey</a></sub>
+<sub>From <a href="https://github.com/SamratPandey">SamratPandey</a></sub>
