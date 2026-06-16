@@ -34,6 +34,7 @@ Always happy to talk shop or team up on something interesting.
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     </td>
   </tr>
   <tr>
@@ -51,6 +52,7 @@ Always happy to talk shop or team up on something interesting.
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/gRPC-1A73E8?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+      <img src="https://img.shields.io/badge/Protobuf-244c5a?style=for-the-badge&logo=protobuf&logoColor=white" alt="Protocol Buffers" />
     </td>
   </tr>
   <tr>
@@ -71,6 +73,7 @@ Always happy to talk shop or team up on something interesting.
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
       <img src="https://img.shields.io/badge/Linux%20%2F%20VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux / VPS" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
     </td>
   </tr>
   <tr>
