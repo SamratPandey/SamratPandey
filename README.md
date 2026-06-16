@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Samrat Pandey</h1>
-<h3 align="center">Full-stack developer building web apps & AI-powered products</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:153b5c&height=220&section=header&text=Samrat%20Pandey&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descAlignY=62&descSize=20" alt="Samrat Pandey" />
+
+<p align="center">
+  <a href="https://artheq.io">Artheq</a> &nbsp;|&nbsp;
+  <a href="https://cryplens.com">CrypLens</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/samratpandey1/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://x.com/samrat_pande">X</a> &nbsp;|&nbsp;
+  <a href="mailto:samratpandeyofficial02@gmail.com">Email</a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamratPandey&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,85 +14,130 @@
 
 ---
 
-### About me
+## About
 
-- I design & ship **full-stack products end-to-end** — from React/Next.js UIs to APIs, databases, and the cloud infra they run on.
-- Lately focused on **AI-powered products** (LLM-driven scoring, insights & automation).
-- Comfortable owning **deployment & ops** — Docker, AWS, Cloudflare, Nginx, VPS.
-- Open to **collaboration** on ambitious web / AI projects.
-- Ask me about **JavaScript/TypeScript, React, Node, and shipping with LLMs**.
-- Fun fact: I learn best by building real products people actually use.
+I'm a software engineer who builds across the stack — Android apps, microservices, and backend systems, along with the cloud infrastructure that runs them. I'm not tied to one type of product; I like working close to the systems layer and owning a project from design through deployment and ops.
 
----
-
-### Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20%2F%20VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**AI / LLM Engineering**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-0A60B6?style=for-the-badge)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-00BFA5?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-**Workflow Orchestration**
-
-![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white)
-![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<table>
+  <tr>
+    <td><b>Building</b></td>
+    <td>Android apps, microservices, and backend systems — no single type of product</td>
+  </tr>
+  <tr>
+    <td><b>Across the stack</b></td>
+    <td>UI, APIs, databases, and Docker / AWS / Cloudflare / Nginx deployment</td>
+  </tr>
+  <tr>
+    <td><b>Open to</b></td>
+    <td>Collaboration on ambitious software projects</td>
+  </tr>
+  <tr>
+    <td><b>Ask me about</b></td>
+    <td>Go, gRPC, microservices, JavaScript / TypeScript, and shipping with LLMs</td>
+  </tr>
+</table>
 
 ---
 
-### Featured Projects
+## Tech Stack
 
-| Project | What it does |
-| --- | --- |
-| [**Artheq**](https://artheq.io) &nbsp;·&nbsp; `artheq.io` | AI portfolio-health analytics for Indian stock investors — upload your portfolio and get a **0–999 Portfolio Health Score** with plain-English, AI-powered risk insights in under 60 seconds. |
-| [**CrypLens**](https://cryplens.com) &nbsp;·&nbsp; `cryplens.com` | SEO-first crypto analysis & content platform — transparent **0–100 coin Health Scores**, market-regime reads, and sentiment-tagged news. |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/gRPC-1A73E8?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Linux%20%2F%20VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux / VPS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/Langfuse-0A60B6?style=for-the-badge" alt="Langfuse" />
+      <img src="https://img.shields.io/badge/LiteLLM-00BFA5?style=for-the-badge" alt="LiteLLM" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Orchestration</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect" />
+      <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" alt="Temporal" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### GitHub Stats
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://artheq.io">Artheq</a></h3>
+      <code>artheq.io</code>
+      <p>AI portfolio-health analytics for Indian stock investors. Upload your portfolio and get a clear Portfolio Health Score with plain-English, AI-powered risk insights in under 60 seconds.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://cryplens.com">CrypLens</a></h3>
+      <code>cryplens.com</code>
+      <p>SEO-first crypto analysis &amp; content platform. Transparent coin Health Scores, market-regime reads, and sentiment-tagged news.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamratPandey&show_icons=true&count_private=true&theme=tokyonight" alt="stats" />
@@ -102,10 +154,12 @@
 
 ---
 
-### Connect with me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratpandey1/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/samrat_pande)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samratpandeyofficial02@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/samratpandey1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/samrat_pande"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:samratpandeyofficial02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<sub>From <a href="https://github.com/SamratPandey">SamratPandey</a></sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:153b5c,100:0e75b6&height=120&section=footer" alt="" />
