@@ -127,19 +127,6 @@ Always happy to talk shop or team up on something interesting.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamratPandey&show_icons=true&count_private=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratPandey&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamratPandey&theme=tokyonight" alt="streak" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">
